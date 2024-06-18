@@ -1,0 +1,16 @@
+torch
+matplotlib
+numpy
+tqdm
+torchvision
+scikit-learn
+numpy
+pandas
+pytest
+torchvision
+livelossplot
+ipython
+scikit-image
+ipykernel
+black
+opencv-python
